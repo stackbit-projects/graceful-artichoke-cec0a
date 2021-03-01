@@ -15,7 +15,5 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
 email: youremail@test.com
 disqus_username: disqus_username
